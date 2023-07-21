@@ -1,7 +1,9 @@
 # Contrastive Learning and Reward Smoothing for Deep Portfolio Management
-This repo is the official implementations of **Contrastive Learning and Reward Smoothing for Deep Portfolio Management**. International Joint Conference on Artificial Intelligence(IJCAI) 2023. 
 
-**Video:** https://recorder-v3.slideslive.com/?share=84574&s=305e6cd5-47b2-415f-a731-373dc7697818. 
+[**Video**](https://recorder-v3.slideslive.com/?share=84574&s=305e6cd5-47b2-415f-a731-373dc7697818)
+
+
+This repo is the official implementations of [**Contrastive Learning and Reward Smoothing for Deep Portfolio Management**](https://people.cs.nctu.edu.tw/~yushuen/data/DeepPortfolioManagement23.pdf). International Joint Conference on Artificial Intelligence(IJCAI) 2023. 
 
 **Authors:** Yun-Hsuan Lien, Yuan-Kui Li, Yu-Shuen Wang 
 
